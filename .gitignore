@@ -1,0 +1,46 @@
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# Build products
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Dependency manager
+Pods/
+Carthage/Build/
+.build/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# macOS system files
+.DS_Store
+*.swp
+*~
+
+# IDE settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Local configuration
+*.xcconfig
+!default.xcconfig
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Archive
+*.xcarchive
